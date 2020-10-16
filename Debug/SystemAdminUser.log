@@ -1,0 +1,23 @@
+﻿  SystemAdminUser.cpp
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(253,23): warning C4244: =: преобразование "std::streamoff" в "size_t", возможна потеря данных
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(282,23): warning C4244: =: преобразование "std::streamoff" в "size_t", возможна потеря данных
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(418,12): warning C4309: инициализация: усечение константного значения
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(658,18): warning C4244: инициализация: преобразование "time_t" в "size_t", возможна потеря данных
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(739,16): warning C4244: инициализация: преобразование "std::streamoff" в "size_t", возможна потеря данных
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(765,16): warning C4244: инициализация: преобразование "std::streamoff" в "size_t", возможна потеря данных
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(779,24): warning C4244: =: преобразование "std::streamoff" в "size_t", возможна потеря данных
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(903,11): warning C4309: инициализация: усечение константного значения
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(927,23): warning C4309: инициализация: усечение константного значения
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(933,30): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(993,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(1022,11): warning C4309: инициализация: усечение константного значения
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(1072,27): warning C4309: =: усечение константного значения
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(1073,32): warning C4309: =: усечение константного значения
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(1074,32): warning C4309: =: усечение константного значения
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(1075,32): warning C4309: =: усечение константного значения
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(1076,32): warning C4309: =: усечение константного значения
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(2042,21): warning C4309: инициализация: усечение константного значения
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(408): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(758): warning C4715: File::result_read: значение возвращается не при всех путях выполнения
+C:\Users\f-abd\source\repos\SystemAdminUser\SystemAdminUser\SystemAdminUser.cpp(383): warning C4715: Users::get_index_admin: значение возвращается не при всех путях выполнения
+  SystemAdminUser.vcxproj -> C:\Users\f-abd\source\repos\SystemAdminUser\Debug\SystemAdminUser.exe
